@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/priority_0.png</file>
+        <file>Images/priority_1.png</file>
+        <file>Images/priority_2.png</file>
+        <file>Images/priority_3.png</file>
+        <file>Images/priority_4.png</file>
+        <file>Images/priority_5.png</file>
+        <file>Images/addButton.png</file>
+        <file>Images/editButton.png</file>
+        <file>Images/removeButton.png</file>
+        <file>Images/viewButton.png</file>
+        <file>Images/closeButton.png</file>
+        <file>Images/loadButton.png</file>
+        <file>Images/saveButton.png</file>
+        <file>Views/CustomHeader.qml</file>
+        <file>Views/CustomTabButton.qml</file>
+        <file>Views/EditPopUpDialog.qml</file>
+        <file>Views/main.qml</file>
+        <file>Views/TaskItem.qml</file>
+        <file>Views/TasksListPage.qml</file>
+        <file>Views/SaveOrLoadFileDialog.qml</file>
+        <file>Images/settingsButton.png</file>
+        <file>Images/cancelButton.png</file>
+        <file>Images/okButton.png</file>
+        <file>Views/CustomEditPopupFooter.qml</file>
+        <file>Images/AppIcon.ico</file>
+        <file>Views/PriorityTabBar.qml</file>
+        <file>Images/tasksListButton.png</file>
+        <file>Views/SettingsPage.qml</file>
+        <file>Views/TabSeparator.qml</file>
+    </qresource>
+</RCC>
